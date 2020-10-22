@@ -1,3 +1,3 @@
 # FireAlarmRestAPI
 
-Fire Alarm Monitoring System
+Fire Alarm Monitoring System Desktop and Web Application
